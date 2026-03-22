@@ -172,7 +172,6 @@ Configuração da plataforma CompSim para o Arduino Virtual e implementação de
 ## ⚙️ Como Usar o CompSim
 
 1. **Baixar o simulador:** Acesse o arquivo `CompSimRISCVIntegrado.zip` disponível no link: http://compsim.crato.ifce.edu.br/download.html
-
 2. **Extrair o `.zip`** na sua máquina
 3. **Executar** o arquivo `CompSim.exe`
 4. **Criar a plataforma:** No menu `Platform`, configure CPU, memória e periféricos conforme a atividade
